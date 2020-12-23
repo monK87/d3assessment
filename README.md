@@ -6,7 +6,7 @@ The assessment text can be found at [docs/dev-assessment.md](docs/dev-assessment
 
 ## Hosted Version
 
-A temporary live version of the API exists at (...).
+A temporary live version of the API exists - the connection information is in the submission email.
 
 The API is not protected by some key, like a `x-api-key` header. In a proper deployment access should be protected through a key system.
 
