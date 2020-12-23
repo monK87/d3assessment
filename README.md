@@ -38,6 +38,8 @@ Ensure that the databases exist before starting the app or running the tests. Do
 
 I made assumptions and implemented reasonable behaviours whenever the user stories don't specify details.
 
+- All email addresses are case-insensitive, but no padding with whitespaces is allowed.
+
 ### `POST /api/register`
 
 - Teacher and Students are created if they don't exist.
